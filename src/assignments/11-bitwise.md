@@ -11,7 +11,7 @@
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/) <mark> done
 - [Number Complement](https://leetcode.com/problems/number-complement/) <mark> done
-- [Set Mismatch](https://leetcode.com/problems/set-mismatch/) 
+- [Set Mismatch](https://leetcode.com/problems/set-mismatch/) <mark> done
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
 - [Binary Gap](https://leetcode.com/problems/binary-gap/) <mark> done
@@ -34,7 +34,7 @@
 ## Hard
 - [Minimum Number of Flips to onvert Binary Matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
 - [Minimum cost to connect two group of points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
-- [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)
+- [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) <mark> done 
 
 # Additionally
 - Click on [*Show problem tags*](https://leetcode.com/tag/bit-manipulation/) and do the questions that contains tags of topics we have covered so far.

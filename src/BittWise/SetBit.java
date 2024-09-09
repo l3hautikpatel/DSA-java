@@ -1,5 +1,8 @@
 package BittWise;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class SetBit {
     public static void main(String[] args) {
         int n =1000 ;
@@ -14,4 +17,29 @@ public class SetBit {
         }
         return c ;
     }
+
+
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+
+        int n = nums.length;
+        int substring =  1 << n ;
+
+        for(int i  =0 ; i < substring ; i++){
+            List<Integer> ss = new ArrayList<>();
+            for(int j = 0 ; j< n ; j++ ){
+                if( (i & (1 << j)) != 0){
+                    ss.add(nums[j]);
+                }
+            }
+            result.add(ss);
+        }
+
+        return result ;
+    }
+
+
+
+
+
 }
