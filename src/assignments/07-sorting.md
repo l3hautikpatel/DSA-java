@@ -9,11 +9,11 @@
 # Questions
 
 ## Easy
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) <mark> done
+- [Majority Element](https://leetcode.com/problems/majority-element/) ---- done
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -- done
+- [Missing Number](https://leetcode.com/problems/missing-number/) -- done
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)   -- need to solve by using hashtable
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
